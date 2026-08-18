@@ -1,3 +1,25 @@
+# ARCHIVO 2031 · Equipo Q
+
+**🌐 Publicado en GitHub Pages: https://jocelynuceda.github.io/archivo-2031--equipo-nayra-valentina-avril/**
+
+Estado del archivo: **RESTAURADO** · Sello: `QUICKSORT-PALINDROMO`
+
+## Equipo
+
+| Integrante | GitHub | Rol |
+|---|---|---|
+| Jocelyn Uceda | [@jocelynuceda](https://github.com/jocelynuceda) | Líder |
+| Valentina Puicón | [@valentinapuicon](https://github.com/valentinapuicon) | Arqueóloga |
+| Nayra Paredes | [@nayraparedes](https://github.com/nayraparedes) | Integradora de la web |
+
+## La investigación
+
+Los dos fragmentos y el glifo se recuperaron de la cinta `incidente/equipo-Q.bundle`.
+El detalle de dónde estaba cada uno, con qué técnica se sacó y el comando exacto
+está en [`bitacora/INFORME.md`](bitacora/INFORME.md).
+
+---
+
 # 🚀 Hackatón 0 – CS2031
 
 ¡Bienvenidos! 🎉
