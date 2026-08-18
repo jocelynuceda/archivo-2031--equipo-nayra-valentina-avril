@@ -1,0 +1,8 @@
+======================================
+   ARCHIVO 2031 - FRAGMENTO 01/02
+======================================
+origen : bitacora archivada en la rama principal
+palabra: QUICKSORT
+codigo : b3fa5cfdf3
+--------------------------------------
+Transcribir tal cual. Se compara linea a linea.
