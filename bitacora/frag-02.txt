@@ -1,0 +1,8 @@
+======================================
+   ARCHIVO 2031 - FRAGMENTO 02/02
+======================================
+origen : respaldo previo al incidente
+palabra: PALINDROMO
+codigo : 8fa925bfc3
+--------------------------------------
+Transcribir tal cual. Se compara linea a linea.
